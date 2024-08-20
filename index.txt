@@ -1,0 +1,223 @@
+Lokesh - personal portfolio
+
+# HEDER
+
+Lokesh.
+
+En
+Ar
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# HERO
+
+alt = A man in a blue shirt with a happy expression
+
+We Design & Build Creative Products
+
+Get in touch
+
+<ion-icon name="logo-github"></ion-icon>
+github
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+3+
+Years of learning
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+15+
+Completed Projects
+
+alt = Peoples rating icon
+
+10+
+confrences
+
+
+
+# ABOUT
+
+alt = A man in a alice blue shirt with a thinking expression
+
+About me
+
+Need a Creative Product? I can Help You!
+
+Hi! I’m Lokesh Grahwal, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked in teams, which involves daily stand-ups and communications, source control, and project management.
+
+Hire me
+
+Download cv
+
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+java
+alt = java logo
+
+sql
+alt = sql logo
+
+Bootstrap
+alt = Bootstrap logo
+
+Git
+alt = Git logo
+
+dreamweaver
+alt = dreamweaver logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+notpad ++
+alt = notpad ++ logo
+
+github
+alt = github logo
+
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = a book shelf filled with books next to a plant AwEfLkvKurc.
+AI Image Generator
+march 2024
+
+alt = A Cassette tape on a mellow apricot background.
+Tour and travels
+january 2024
+
+alt = currency image.
+Currency Converter
+August 2023
+
+alt = bundle of newspaper on table
+NEWS APP
+June 2024
+
+alt = a blue notebook with the word pop written on it next to a potted plant.
+To-Do List
+July 2024
+
+alt = On a yellow background, a digital watch and a glass.
+Entertain App
+April 2022
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+129/12 nanda nagar indore , madhya pradesh
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(01) 777 180 0036
+(02) 999 364 3145
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+lokeshgarhwal1805@gmail.com
+
+<ion-icon name="logo-Email"></ion-icon>
+<ion-icon name="logo-github"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-whatsapp"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g John Doe
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g johndoe@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Lokesh.
+
+&copy; 2022 codewithlokesh. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
