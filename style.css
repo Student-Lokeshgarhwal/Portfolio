@@ -469,7 +469,8 @@
     justify-content: center;
     align-items: center;
     padding-top: 115px;
-    margin-bottom: var(--section-padding);
+    margin-top: 80px;
+    /* margin-bottom: var(--section-padding); */
   }
   
   .hero-banner {
@@ -1124,6 +1125,8 @@
       max-width: unset;
       height: 100%;
       margin-bottom: 0;
+      margin-top: -80px;
+
     }
   
     .hero img {
@@ -1333,11 +1336,4 @@
   
     .about-banner { max-width: 450px; }
   
-  }
-
-  .chatbot{
-    /* size: 20px; */
-    color: aqua;
-    /* font-size: 20px; */
-    background-color: red;
   }
